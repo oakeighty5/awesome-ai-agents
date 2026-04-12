@@ -97,6 +97,7 @@ An AI agent goes beyond chat — it can:
 - [Mentat](https://github.com/AbanteAI/mentat) — AI coding assistant that works directly with your codebase from the command line.
 - [OpenCode](https://github.com/sst/opencode) — Open source terminal coding agent supporting 300+ models. ![GitHub Repo stars](https://img.shields.io/github/stars/sst/opencode)
 - [OmX (Oh My codeX)](https://github.com/nicekid1/omx) — Adds hooks, agent teams, and HUDs to OpenAI Codex. ![GitHub Repo stars](https://img.shields.io/github/stars/nicekid1/omx)
+- [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin with 9 SEO and Google Ads skills for traffic audits, schema markup, bid updates, and CMS publishing.
 
 ### AI IDEs & Editors
 - [Cursor](https://cursor.com/) — AI-first code editor built on VS Code. Tab completion, inline chat, multi-file agents. The most popular AI IDE.
