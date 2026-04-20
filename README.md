@@ -12,6 +12,7 @@ Whether you're building agents, deploying them in production, or researching the
 
 An AI agent goes beyond chat — it can:
 - **Reason** about multi-step problems
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - **Plan** a sequence of actions
 - **Use tools** (APIs, browsers, code execution)
 - **Remember** context across sessions
