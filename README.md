@@ -306,6 +306,7 @@ An AI agent goes beyond chat — it can:
 - [MCP Servers (Official)](https://github.com/modelcontextprotocol/servers) — Official repository of MCP servers. Filesystem, GitHub, Slack, databases, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/servers)
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) — Community curated list of MCP servers and resources. ![GitHub Repo stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers)
 - [Composio](https://github.com/ComposioHQ/composio) — Integration platform for AI agents. 250+ pre-built tool integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/ComposioHQ/composio)
+- [NotFair](https://notfair.co) — Hosted Google Ads MCP server. Diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API.
 - [Toolhouse](https://toolhouse.ai/) — Universal tool server for AI agents. Connect any agent to any API.
 
 ## Learning Resources
