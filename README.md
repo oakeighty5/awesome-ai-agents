@@ -307,6 +307,7 @@ An AI agent goes beyond chat — it can:
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) — Community curated list of MCP servers and resources. ![GitHub Repo stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers)
 - [Composio](https://github.com/ComposioHQ/composio) — Integration platform for AI agents. 250+ pre-built tool integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/ComposioHQ/composio)
 - [Toolhouse](https://toolhouse.ai/) — Universal tool server for AI agents. Connect any agent to any API.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Solana on-chain trust scoring for AI agents. Verify wallet reputation before x402 micropayments. Remote MCP: `https://intel.twzrd.xyz/mcp`
 
 ## Learning Resources
 
