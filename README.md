@@ -98,6 +98,7 @@ An AI agent goes beyond chat — it can:
 - [OpenCode](https://github.com/sst/opencode) — Open source terminal coding agent supporting 300+ models. ![GitHub Repo stars](https://img.shields.io/github/stars/sst/opencode)
 - [OmX (Oh My codeX)](https://github.com/nicekid1/omx) — Adds hooks, agent teams, and HUDs to OpenAI Codex. ![GitHub Repo stars](https://img.shields.io/github/stars/nicekid1/omx)
 - [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin with 9 SEO and Google Ads skills for traffic audits, schema markup, bid updates, and CMS publishing.
+- [NotFair](https://github.com/nowork-studio/NotFair) — Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/nowork-studio/NotFair)
 
 ### AI IDEs & Editors
 - [Cursor](https://cursor.com/) — AI-first code editor built on VS Code. Tab completion, inline chat, multi-file agents. The most popular AI IDE.
