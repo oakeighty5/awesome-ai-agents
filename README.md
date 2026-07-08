@@ -240,12 +240,13 @@ An AI agent goes beyond chat — it can:
 
 *Systems for giving agents persistent memory across sessions.*
 
-- [Mem0](https://github.com/mem0ai/mem0) — Memory layer for AI agents. Persistent, contextual memory that improves over time. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0)
-- [Letta](https://github.com/letta-ai/letta) — Framework for creating LLM agents with long-term memory and self-editing capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/letta-ai/letta)
-- [Zep](https://github.com/getzep/zep) — Long-term memory for AI assistants with facts extraction, entity graphs, and temporal awareness. ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep)
 - [BrainCTL](https://github.com/brainctl/brainctl) — Single SQLite file memory system with FTS5 search, knowledge graph, and write gate for redundancy rejection.
-- [Motorhead](https://github.com/getmetal/motorhead) — Memory and context management server for LLMs. Redis-backed, handles long conversations.
 - [ChromaDB](https://github.com/chroma-core/chroma) — AI-native open-source embedding database. The most popular vector store for agent RAG. ![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/chroma)
+- [Letta](https://github.com/letta-ai/letta) — Framework for creating LLM agents with long-term memory and self-editing capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/letta-ai/letta)
+- [Mem0](https://github.com/mem0ai/mem0) — Memory layer for AI agents. Persistent, contextual memory that improves over time. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0)
+- [Motorhead](https://github.com/getmetal/motorhead) — Memory and context management server for LLMs. Redis-backed, handles long conversations.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) — Local-first memory lifecycle for AI agents with Rust CLI, SQLite/FTS recall, audit, consolidation, and forgetting. ![GitHub Repo stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory)
+- [Zep](https://github.com/getzep/zep) — Long-term memory for AI assistants with facts extraction, entity graphs, and temporal awareness. ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep)
 
 ## Agent Security
 
