@@ -74,15 +74,16 @@ An AI agent goes beyond chat — it can:
 
 *No-code/low-code platforms and marketplaces for deploying and sharing agents and agent skills.*
 
-- [Dify](https://github.com/langgenius/dify) — Open-source platform for building LLM-powered apps with visual agent workflow orchestration. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify)
-- [Flowise](https://github.com/FlowiseAI/Flowise) — Drag-and-drop UI for building customized LLM agent flows using LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise)
-- [Botpress](https://github.com/botpress/botpress) — Open-source platform for building and deploying AI-powered chatbots and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/botpress)
-- [Superagent](https://github.com/superagent-ai/superagent) — Platform for deploying production-ready AI agents with built-in memory, tools, and APIs.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) — Browser-based platform that lets you assemble, configure, and deploy autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT)
-- [skills.sh](https://skills.sh/) — Official leaderboard and directory for 90,000+ agent skill packages. Tracks real install counts across 19 AI agents.
 - [Anthropic Official Skills](https://github.com/anthropics/skills) — Anthropic's official SKILL.md templates for Claude Code. Document creation, frontend design, development workflows.
+- [Botpress](https://github.com/botpress/botpress) — Open-source platform for building and deploying AI-powered chatbots and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/botpress)
+- [Dify](https://github.com/langgenius/dify) — Open-source platform for building LLM-powered apps with visual agent workflow orchestration. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify)
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) — 30 agents, 136 skills, 60 commands. The most comprehensive Claude Code resource. ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code)
+- [Flowise](https://github.com/FlowiseAI/Flowise) — Drag-and-drop UI for building customized LLM agent flows using LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise)
 - [OpenRouter](https://openrouter.ai/) — Unified API for 200+ LLMs. Route agent requests to the best model for each task.
+- [Orkas](https://github.com/Orkas-AI/Orkas) — Local-first desktop platform whose Commander coordinates specialist agents for complex work. ![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas)
+- [skills.sh](https://skills.sh/) — Official leaderboard and directory for 90,000+ agent skill packages. Tracks real install counts across 19 AI agents.
+- [Superagent](https://github.com/superagent-ai/superagent) — Platform for deploying production-ready AI agents with built-in memory, tools, and APIs.
 - [Wordware](https://www.wordware.ai/) — IDE for building AI agents with a natural language programming model. Deploy as APIs.
 
 ## Coding Agents & AI IDEs
