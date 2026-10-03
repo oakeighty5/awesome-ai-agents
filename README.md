@@ -156,6 +156,7 @@ An AI agent goes beyond chat — it can:
 - [GPTeam](https://github.com/101dotxyz/GPTeam) — Multi-agent simulation where AI agents collaborate, form memories, and interact in a shared world.
 - [Swarm](https://github.com/openai/swarm) — OpenAI's experimental framework for lightweight multi-agent orchestration and handoffs.
 - [Magentic-One](https://github.com/microsoft/autogen/tree/main/python/packages/magentic-one) — Microsoft's multi-agent system with a lead Orchestrator agent coordinating specialist agents.
+- [Tale](https://github.com/tale-project/tale) — Shared project workspace where manager agents delegate tasks to configured agents in persistent sandboxes and teammates review deliverables. ![GitHub Repo stars](https://img.shields.io/github/stars/tale-project/tale)
 
 ## Voice & Phone Agents
 
