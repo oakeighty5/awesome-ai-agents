@@ -303,6 +303,7 @@ An AI agent goes beyond chat — it can:
 
 > [MCP](https://modelcontextprotocol.io/) is an open standard for connecting AI agents to data sources and tools.
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [MCP Servers (Official)](https://github.com/modelcontextprotocol/servers) — Official repository of MCP servers. Filesystem, GitHub, Slack, databases, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/servers)
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) — Community curated list of MCP servers and resources. ![GitHub Repo stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers)
 - [Composio](https://github.com/ComposioHQ/composio) — Integration platform for AI agents. 250+ pre-built tool integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/ComposioHQ/composio)
